@@ -1,7 +1,7 @@
 {
-    "name": "muplugin/asse-filter-dashboard",
+    "name": "axelspringer/wp-mu-filter-dashboard",
     "type": "wordpress-muplugin",
-    "description": "asse filter dashboard",
+    "description": "axelspringer filter dashboard",
     "keywords": [
         "wordpress",
         "muplugin"
@@ -12,9 +12,9 @@
             "homepage": "http://www.axelspringer.de"
         }
     ],
-    "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/asse-filter-dashboard/browse",
-    "license": "proprietary",
+    "homepage": "https://github.com/axelspringer/wp-mu-filter-dashboard",
+    "license": "Apache-2.0",
     "extra": {
-        "installer-name": "asse-filter-dashboard"
+        "installer-name": "wp-mu-filter-dashboard"
     }
 }
